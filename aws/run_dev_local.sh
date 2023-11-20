@@ -1,3 +1,4 @@
+#random comments!!
 #!bin/bash
 
 sudo git branch -a
