@@ -1,5 +1,5 @@
 #random comments!!
-#more comments-for testing~
+#more comments
 #!bin/bash
 
 sudo git branch -a
